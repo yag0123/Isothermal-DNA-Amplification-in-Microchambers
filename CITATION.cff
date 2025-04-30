@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "YAGINUMA"
+  given-names: "Hideyuki"
+  orcid: "https://orcid.org/0000-0001-7923-494X"
+title: "Isothermal-DNA-Amplification-in-Microchambers"
+version: 1.0.0
+doi: 10.5281/zenodo.15287439
+date-released: 2025-04-29
+url: "https://github.com/yag0123/Isothermal-DNA-Amplification-in-Microchambers"
