@@ -19,3 +19,5 @@ April 2025,
 Hideyuki Yaginuma
 
 [![DOI](https://zenodo.org/badge/970552506.svg)](https://zenodo.org/badge/latestdoi/970552506)
+
+The above DOI corresponds to the latest versioned release as [published to Zenodo](https://zenodo.org/records/15287439), where you will find all earlier releases. To cite `Isothermal-DNA-Amplification-in-Microchambers` independent of version, use https://doi.org/10.5281/zenodo.15287439, which will always redirect to the latest release.
