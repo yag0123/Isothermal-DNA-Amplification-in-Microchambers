@@ -17,3 +17,5 @@ Thank you for your interest to our work.
 
 April 2025,
 Hideyuki Yaginuma
+
+[![DOI](https://zenodo.org/badge/970552506.svg)](https://zenodo.org/badge/latestdoi/970552506)
